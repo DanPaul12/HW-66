@@ -1,4 +1,4 @@
-#import pytest
+import pytest
 
 def test_negative_sum():
     result = -5 + -3
